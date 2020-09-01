@@ -67,7 +67,7 @@ function tabelaDeMultiplicacaofor(numero) {
    }	 
 }
 
-//tabelaDeMultiplicacaofor(9);
+tabelaDeMultiplicacaofor(9);
 
 
 function tabelaDeMultiplicacao(numero) {
